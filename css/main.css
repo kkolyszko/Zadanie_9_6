@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&subset=latin-ext");
+h1, p {
+  font-family: 'Raleway', sans-serif;
+  text-align: center; }
+
+p {
+  font-size: 2em;
+  color: green;
+  margin: 0; }
+
+/*# sourceMappingURL=main.css.map */
